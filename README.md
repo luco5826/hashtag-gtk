@@ -1,4 +1,4 @@
-#### HashTagizer
+# HashTagizer
 Hi! This is a simple experiment made in C/C++ using the Gtkmm library (the C++ port of the Gtk library).
 
 ![Alt text](img/screenshot.png?raw=true "Screenshot")
